@@ -1,1 +1,1 @@
-# Git-course is good
+# Git-course is goodand it is read by everyone
