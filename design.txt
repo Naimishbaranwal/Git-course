@@ -1,0 +1,51 @@
+Noun-Objects
+Verb/Action- Methods
+
+#App1
+create an app to divide the total rent among the tenants for definite days for a particular month.
+
+object:
+class bill:
+    total rent
+    month
+class tenants:
+    name
+    number_of_days
+    payment by each tenant() 
+
+
+#App2
+Project Math Painting
+draw rectangle and square by the CLI width, height to input, name of color, or by input coordinate. 
+
+Objects:
+class square
+    x
+    y
+    width
+    height
+    color
+    draw(canvas)
+class rectangle
+    x
+    y
+    width
+    height
+    color
+    draw(canvas)
+class canvas
+    width
+    height
+    color
+    make(imagepath)
+
+
+#app3 photo searcher app
+-widget(buttons,text input, image)
+-screen
+-screen manager
+-app
+
+#app4
+
+starts camera capture image and upload the image on web and create a shareable link. 

@@ -1,0 +1,12 @@
+[project]
+name = "git-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kivy>=2.3.1",
+    "numpy>=2.3.2",
+    "pillow>=11.3.0",
+    "wikipedia>=1.4.0",
+]
