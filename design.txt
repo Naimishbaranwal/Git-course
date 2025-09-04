@@ -49,3 +49,13 @@ class canvas
 #app4
 
 starts camera capture image and upload the image on web and create a shareable link. 
+Objects: webcam:
+            -start()
+            -stop()
+            -capture()
+         filesharer:
+            -filepath
+            -api
+            -share()
+
+        
